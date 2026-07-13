@@ -4,6 +4,8 @@ Site institucional desenvolvido para uma clínica odontológica fictícia, criad
 
 O projeto foi desenvolvido como parte do meu portfólio, simulando um site profissional para uma clínica real, com o objetivo de transmitir confiança, credibilidade e facilitar o contato entre pacientes e a clínica.
 
+OBS: Algumas Imagens Usadas Foram Geradas por Inteligência Artificial.
+
 ---
 
 ## 📸 Preview
