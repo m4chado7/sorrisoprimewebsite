@@ -16,7 +16,7 @@ O projeto foi desenvolvido como parte do meu portfólio, simulando um site profi
 
 🔗 **Acesse o projeto online:**
 
-https://sorrisoprimewebsite.vercel.app
+https://sorrisoprimesite.vercel.app
 
 ---
 
