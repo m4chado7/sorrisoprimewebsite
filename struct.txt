@@ -1,0 +1,39 @@
+sorriso-prime/
+├── index.html
+├── css/
+│   └── style.css
+├── js/
+│   └── script.js
+└── assets/
+    └── images/
+        ├── logo.png
+        ├── favicon.png
+        ├── hero-dentista.jpg
+        ├── clinica.jpg
+        ├── og-image.jpg
+        ├── galeria/
+        │   ├── galeria1.jpg
+        │   ├── galeria2.jpg
+        │   ├── galeria3.jpg
+        │   ├── galeria4.jpg
+        │   ├── galeria5.jpg
+        │   └── galeria6.jpg
+        ├── resultados/
+        │   ├── resultado1.jpg
+        │   ├── resultado01.jpg
+        │   ├── resultado2.jpg
+        │   ├── resultado02.jpg
+        │   ├── resultado3.jpg
+        │   └── resultado03.jpg
+        ├── equipe/
+        │   ├── dra-anabeatriz.jpg
+        │   ├── dr-carloseduardo.jpg
+        │   ├── dra-marianasilva.jpg
+        │   └── dr-rodrigolima.jpg
+        └── depoimentos/
+            ├── paciente1.jpg
+            ├── paciente2.jpg
+            ├── paciente3.jpg
+            ├── paciente4.jpg
+            ├── paciente5.jpg
+            └── paciente6.jpg
